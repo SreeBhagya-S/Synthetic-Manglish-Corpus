@@ -5,7 +5,7 @@
 
 Follow the commands 
 
-cd {filepath} eg:/home/mca5/anaconda3/lib/python3.7
+cd {filepath} eg:/home
 
 sudo apt update
 
