@@ -27,8 +27,6 @@ git lfs track
 
 git add {filename} eg:amazon_fullReviews.csv # COPY file amazon_fullReviews.csv in this folder
 
-git add {filename} eg:amazon_fullReviews.csv
-
 git config --global user.email "git mail id" 
 
 git config --global user.name "git username"
