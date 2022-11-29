@@ -19,7 +19,7 @@ sudo apt-get install git-lfs
 
 git lfs install
 
-git clone {gitrepo_url} eg: https://github.com/SreeBhagya-S/Datasets.git
+git clone {gitrepo_url} 
 
 cd reponame {Datasets}
 
