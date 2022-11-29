@@ -1,4 +1,4 @@
-                                            **---Synthetic Manglish Corpus of Customer Reviews from Amazon--**
+                                            _Synthetic Manglish Corpus of Customer Reviews from Amazon_
 
 
 #How to save large files in git
