@@ -21,6 +21,8 @@ git lfs install
 
 git clone {gitrepo_url} eg: https://github.com/SreeBhagya-S/Datasets.git
 
+cd reponame {Datasets}
+
 git lfs track
 
 git add {filename} eg:amazon_fullReviews.csv # COPY file amazon_fullReviews.csv in this folder
