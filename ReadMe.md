@@ -36,7 +36,7 @@ git commit -m "Add csv file"
 git config --global push.default simple
 
 git push
-
+#while entering password, give your Personal Access Token on GitHub
 
 To Create Personal Access Token on GitHub
 
