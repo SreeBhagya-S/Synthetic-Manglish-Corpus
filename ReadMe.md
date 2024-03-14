@@ -1,5 +1,9 @@
 # **Synthetic Manglish Corpus of Customer Reviews from Amazon**
 
+CSI Score for the synthetic Manglish reviews in native script: 0.9034212958294366
+
+CSI Score for the Manglish reviews in transliterated form: 0.9007951219242283
+
 
 ### How to save large files in git
 
